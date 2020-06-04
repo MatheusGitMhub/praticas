@@ -1,3 +1,3 @@
-# Prácticas Brasil
+# Practicas Brasil
 
 Tarefas práticas separadas por módulo.
